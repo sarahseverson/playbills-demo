@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder demo with Playbills 
+title: Playbills Collections
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: English Playbills from 1779 through 1949
+tagline: Bruce Peel Special Collection English Playbills collection 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "University of Alberta Library collection on English Playbills"
+description: "The Bruce Peel Special Collection English Playbills collection includes more than 800 playbills of performances staged in the major playhouses in the United Kingdom from 1779 though 1949. "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Natasha Nunn and Sarah Severson
 
 ##########
 # COLLECTION SETTINGS
@@ -40,8 +40,8 @@ metadata: playbills-demo
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "University of Alberta Library"
+organization-link: https://library.ualberta.ca/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
