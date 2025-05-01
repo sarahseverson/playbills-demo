@@ -12,16 +12,6 @@ credits: false
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About the English Playbills Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The [University of Alberta Library](https://library.ualberta.ca/) acquired a large collection of historic theatre playbills for study and research in the Department of Drama between the late 1960s and the early 1980s. This collection, more than 800 playbills and a handful of programs, helps to document many of the performances staged in the major playhouses in the United Kingdom from 1779 through 1949 with the bulk of them from 1804-1885. It provides a wealth of information about dramatic performances, ranging from the plays, playwrights, and actors to theatres, dates, and ticket prices. Of potential interest not only for the study of drama, but for the study of book history and graphic design. 
