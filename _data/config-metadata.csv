@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
-title,Play Title,
-playwright,Playwright,
+title,Play Title,true
+playwright,Playwright,true
 field-date,Date of show,
 subject,Genre,true
 theatre-name,Theatre Name,true
