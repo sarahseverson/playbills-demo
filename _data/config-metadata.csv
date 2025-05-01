@@ -8,6 +8,6 @@ latitude,Latitude
 longitude,Longitude
 source,Source
 location,Shelf Location 
-URL,URL,,true
+url,URL,,true
 rights,Rights,
 rightsstatement,Rights Statement,,true
