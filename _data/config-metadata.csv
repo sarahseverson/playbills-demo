@@ -1,15 +1,13 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
+title,Play Title,
+playwright,Playwright,
+field-date,Date of show,
+subject,Genre,true
+theatre-name,Theatre Name
 latitude,Latitude
 longitude,Longitude
 source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
+location,Shelf Location 
+URL,URL
 rights,Rights,
 rightsstatement,Rights Statement,,true
