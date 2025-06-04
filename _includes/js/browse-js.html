@@ -50,9 +50,11 @@ function makeCard(obj) {
     // title
     card += '<div class="card-body text-center"> <h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h3>';
     // thumb for non-photo items
-    if(thumbSrc){
-        card += '<p><a href="' + itemHref + '"><img class="lazyload w-50" data-src="' + thumbSrc + '" alt="Image of ' + obj.title + '"></a></p>';
-    }
+  if(obj.image_thumb) {
+    card += '<p><a href="' + itemHref + '"><img class="lazyload w-50" data-src="' + obj.image_thumb + '" alt="Thumbnail of ' + obj.title + '"></a></p>';
+} else if(thumbSrc){
+    card += '<p><a href="' + itemHref + '"><img class="lazyload w-50" data-src="' + thumbSrc + '" alt="Icon of ' + obj.title + '"></a></p>';
+}
     // other fields
     card += '<p class="card-text">';
     {% for f in fields %}{% unless f.hidden == 'true' %}
