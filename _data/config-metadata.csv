@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-title,Play Title,true
+title,Play Title,true,
 playwright,Playwright,true
 field-date,Date of show,
 subject,Genre,true
