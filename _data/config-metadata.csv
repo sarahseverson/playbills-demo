@@ -4,8 +4,6 @@ playwright,Playwright,true
 field-date,Date of show,
 subject,Genre,true
 theatre-name,Theatre Name,true
-latitude,Latitude
-longitude,Longitude
 source,Source
 location,Shelf Location 
 url,URL,,true
