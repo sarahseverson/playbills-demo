@@ -1,11 +1,11 @@
 field,display_name,browse_link,external_link
 title,Play Title,true,
-playwright,Playwright,true
+playwright,Playwright,true,
 field-date,Date of show,
-subject,Genre,true
-theatre-name,Theatre Name,true
-source,Source
-location,Shelf Location 
+subject,Genre,true,
+theatre-name,Theatre Name,true,
+source,Source,,
+location,Shelf Location ,,
 url,URL,,true
 rights,Rights,
 rightsstatement,Link to Standardized Rights Statement,,true
